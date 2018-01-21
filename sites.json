@@ -1551,6 +1551,15 @@
     },
 
     {
+        "name": "FaxBetter",
+        "url": "http://support.faxbetter.com/knowledgebase/articles/15321-how-do-i-cancel-my-account",
+        "difficulty": "hard",
+        "domains": [
+            "faxbetter.com"
+        ]
+    }
+
+    {
         "name": "Feedly",
         "url": "https://feedly.com/#erase",
         "difficulty": "easy",
@@ -2790,6 +2799,17 @@
     },
 
     {
+        "name": "Kindara",
+        "url": "https://app.kindara.com",
+        "difficulty": "hard",
+        "notes": "Email their customer service at Feedback@kindara.com to delete your account.",
+        "domains":
+        [
+            "kindara.com"
+        ]
+    }
+
+    {
         "name": "Kinja (Gawker Media)",
         "url": "http://legal.kinja.com/kinja-terms-of-use-90161644",
         "difficulty": "impossible",
@@ -2977,6 +2997,16 @@
             "libre.fm"
         ]
     },
+
+    {
+        "name": "Lifecake",
+        "url": "https://www.lifecake.com/",
+        "difficulty": "impossible",
+        "notes": "You may need to contact customer service directly.",
+        "domains": [
+            "lifecake.com"
+        ]
+    }
 
     {
         "name": "Lifehacker (Gawker Media)",
@@ -3563,6 +3593,16 @@
         "notes_fr": "Cochez la case pour confirmer, puis cliquez « Change ».",
         "domains": [
             "noip.com"
+        ]
+    },
+
+    {
+        "name": "NoMoreClipboard",
+        "url": "https://nomoreclipboard.com/nmc.cgi?f=chart&s=pat&&page=Delete%20Account&wizard=-1",
+        "difficulty": "easy",
+        "notes": "Go to your account, then click 'Delete Account'.",
+        "domains": [
+            "nomoreclipboard.com"
         ]
     },
 
